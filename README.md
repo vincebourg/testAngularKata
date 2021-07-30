@@ -3,7 +3,7 @@
 Basic template for having fun with Angular and RXJS !
 
 ## Launch the Kata
- - move to the src/ClientApp folder
+ - move to the ClientApp folder
  - npm install
  - ng serve: if this command is not recognised try npm install @angular/cli
  
