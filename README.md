@@ -9,7 +9,7 @@ Basic template for having fun with Angular and RXJS !
  
 
  ## Play with the interface
- There is a 'Counter' Tab. In this tab you can find a counter that counts. Clicking 'increment' adds a clock based on the counter.
+ There is a 'Counter' Tab. In this tab you can find a counter that counts. Clicking 'Increment' adds a clock based on the counter.
 
  ## Analyse the existing code
   - In the code there is a clock.Service.ts that provides a clock$.
@@ -30,5 +30,5 @@ Basic template for having fun with Angular and RXJS !
   (Hint: map)
   
   ## Task 4
-  Add a new counter that will only show the clock value when a 'refresh' button is clicked.
+  Add a new counter that will only show the clock value when a 'Refresh' button is clicked.
   (Hint: zip, subject)
